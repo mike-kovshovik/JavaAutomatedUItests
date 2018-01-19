@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="60125" started-at="2018-01-13T10:06:13Z" finished-at="2018-01-13T10:07:13Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="60125" started-at="2018-01-13T10:06:13Z" finished-at="2018-01-13T10:07:13Z">
+      <class name="by.onliner.testcases.OnlinerFlowTestMaven">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:by.onliner.testcases.OnlinerFlowTestMaven@1134affc]" name="beforeTest" is-config="true" duration-ms="9586" started-at="2018-01-13T13:06:13Z" finished-at="2018-01-13T13:06:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="e2eOnlinerCatalogTest()[pri:0, instance:by.onliner.testcases.OnlinerFlowTestMaven@1134affc]" name="e2eOnlinerCatalogTest" duration-ms="50280" started-at="2018-01-13T13:06:23Z" finished-at="2018-01-13T13:07:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- e2eOnlinerCatalogTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:by.onliner.testcases.OnlinerFlowTestMaven@1134affc]" name="afterTest" is-config="true" duration-ms="239" started-at="2018-01-13T13:07:13Z" finished-at="2018-01-13T13:07:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- by.onliner.testcases.OnlinerFlowTestMaven -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
